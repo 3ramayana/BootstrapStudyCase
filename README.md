@@ -1,4 +1,4 @@
 # BootstrapStudyCase
 
 Preview:
-[Link](https://gallan)
+[Link](https://eager-hoover-ccac7c.netlify.app/)

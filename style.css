@@ -1,0 +1,22 @@
+.navbar-brand img {
+  width: 100px;
+}
+
+.jumbotron h1 {
+  font-size: 100px;
+}
+
+.jumbotron p {
+  font-size: 50px
+}
+
+/* LIST PELAJARAN */
+.underline {
+  height: 3px;
+  background-color: #007BFF;
+}
+
+/* FOOTER */
+footer img {
+  width: 150px;
+}
